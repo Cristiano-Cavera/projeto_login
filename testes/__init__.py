@@ -1,0 +1,1 @@
+from .test_login import test_validar_cpf, test_validar_senha, test_validar_celular

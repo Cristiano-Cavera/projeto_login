@@ -1,0 +1,1 @@
+from .regras import validar_senha,validar_cpf,validar_celular
